@@ -758,6 +758,16 @@ img {
   font-weight: 200;
 }
 
+i {
+  text-decoration: none;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  list-style: none;
+}
+
 footer footer {
   padding-top: 150px;
   text-align: center;
